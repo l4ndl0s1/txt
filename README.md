@@ -6,7 +6,8 @@ A browser-based net art project by **Laurus Edelbacher**.
 
 - **Year:** 2014
 - **Category:** Net Art
-- **Demo:** [cell.txt interactive background animation](https://www.laurusedelbacher.com/black/screen1.html)
+- **Demo:** [cell.txt](https://www.laurusedelbacher.com/black/screen1.html)
+- **Project Webpage:** [celltxt.info)](https://celltxt.info)
 
 
 
